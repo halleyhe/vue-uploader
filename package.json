@@ -5,7 +5,7 @@
   "main": "dist/vue-uploader.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/simple-uploader/vue-uploader.git"
+    "url": "https://github.com/halleyhe/vue-uploader.git"
   },
   "bugs": "https://github.com/simple-uploader/vue-uploader/issues",
   "homepage": "https://github.com/simple-uploader/vue-uploader",

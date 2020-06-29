@@ -183,11 +183,13 @@
         this.isUploading = this.file.isUploading()
       },
       pause () {
+        console.log('pause')
         this.file.pause()
         this._actionCheck()
         this._fileProgress()
       },
       resume () {
+        console.log('resume')
         this.file.resume()
         this._actionCheck()
       },
